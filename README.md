@@ -68,6 +68,12 @@ This page analyzes regional performance across different states and markets.
 - Interactive map showing Profit by State (filters other visuals)
 - Detailed table with State, Sales, Profit, Expenses, and Marketing spend
 
+**Dashboard Overview**
+- Page 1: https://github.com/risinsharma-da/Coffee-Shop-Sales-Analysis/blob/main/Dashboard%20Page%201.png
+- Page 2:-https://github.com/risinsharma-da/Coffee-Shop-Sales-Analysis/blob/main/Dashboard%20Page%202.png
+- Page 3:-https://github.com/risinsharma-da/Coffee-Shop-Sales-Analysis/blob/main/Dashboard%20Page%203.png
+- Page 4:-https://github.com/risinsharma-da/Coffee-Shop-Sales-Analysis/blob/main/Dashboard%20Page%204.png
+
 ## How to Use
 
 1. Clone or download this repository.
